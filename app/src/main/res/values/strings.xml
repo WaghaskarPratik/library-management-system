@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">iLibrary</string>
+    <string name="activity_all_books">All Books</string>
+    <string name="activity_already_read_book">Books You Already Read</string>
+    <string name="activity_book_activity">Book Details</string>
+    <string name="activity_currently_reading_books">Books Aou Are Currently Reading</string>
+    <string name="activity_favorites">Favorites Books</string>
+    <string name="activity_wish_list">Your Wish List</string>
+</resources>

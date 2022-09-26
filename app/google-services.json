@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "599208715609",
+    "project_id": "ilibrary-26cf7",
+    "storage_bucket": "ilibrary-26cf7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599208715609:android:b1d9fae708bde08a0c1848",
+        "android_client_info": {
+          "package_name": "com.example.ilibrary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599208715609-033vl5j5kicr61mp7nf3hfjjfhakecu9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1Wjfoeljf0f7NCJ6vyiXKt0PKFW90_YE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599208715609-033vl5j5kicr61mp7nf3hfjjfhakecu9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
